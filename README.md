@@ -21,3 +21,5 @@ Furthermore, we consider a parameter k, which is the number of slots an entity c
 queue if the best choice for it (the fastest hospital) is not available in that slot. The 
 algorithm is run for k = 0, 1,...,5 and the results are plotted. It is shown that as k grows, the 
 results improve for both requests and the hospitals.
+
+P.S. This was my Game Theory course project.
